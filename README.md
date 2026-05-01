@@ -12,7 +12,5 @@
 ## ✧ GitHub Trophies ✧
 ![](https://github-profile-trophy.vercel.app/?username=Amelie005&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-  ## ✧ You can help me by Donating ✧
-  (https://buymeacoffee.com/lightninq)
 
   
