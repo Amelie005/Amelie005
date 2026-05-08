@@ -45,27 +45,3 @@
 </div>
 
 ###
-
-<h3 align="center">✧ Contributions ✧</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amelie005/Amelie005/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amelie005/Amelie005/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amelie005/Amelie005/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="center">✧ Stats ✧</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Amelie005/Amelie005/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Amelie005/Amelie005/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Amelie005/Amelie005/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
