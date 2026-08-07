@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✦ HTW Berlin<br>✦ 3rd Semester <br>✦ Applied Computer Science Bachelor<br>✦ 20 yrs old</p>
+<p align="left">✦ HTW Berlin<br>✦ 4th Semester <br>✦ Applied Computer Science Bachelor<br>✦ 20 yrs old</p>
 
 ###
 
